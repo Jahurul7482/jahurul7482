@@ -26,7 +26,7 @@
 <a href="https://twitter.com/jahurul7482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahurul7482" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/jahurul7482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/jahurul7482" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/profile.php?id=100006719508671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100006719508671" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucl4ugru2ibdb58vg1_0bcrq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCL4UGRU2iBdB58vG1_0bCrQ" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucl4ugru2ibdb58vg1_0bcrq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCL4UGRU2iBdB58vG1_0bCrQ" height="30" width="40" /></a>
 </p>
 <hr/>
 
