@@ -21,11 +21,11 @@
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/jahurul7482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jahurul7482" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/jahurul7482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jahurul7482" height="40" width="52" /></a>
 <a href="https://twitter.com/jahurul7482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahurul7482" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/jahurul7482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/jahurul7482" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/profile.php?id=100006719508671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100006719508671" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/ucl4ugru2ibdb58vg1_0bcrq" target="blank"><img align="center" src="https://jahurul7482.github.io/youtubelogo/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCL4UGRU2iBdB58vG1_0bCrQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="52" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
